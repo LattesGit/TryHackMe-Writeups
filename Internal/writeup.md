@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-WordPress%20%7C%20Pivoting%20%7C%20Jenkins-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green?style=for-the-badge)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Target:** internal.thm
 
@@ -251,6 +251,6 @@ cat /root/root.txt
 
 > **⚠️ Disclaimer:** This writeup is for educational purposes only. Always obtain proper authorization before testing systems you do not own.
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
 ```
