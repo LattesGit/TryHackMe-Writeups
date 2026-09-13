@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Linux%20%7C%20Web%20%7C%20SUID%20%7C%20Cron-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Anonymous Playground](https://tryhackme.com/room/anonymousplayground)
 
@@ -249,5 +249,5 @@ cat /root/root.txt
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
