@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Linux%20|%20CMS%20|%20Sudo%20Abuse-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
@@ -279,5 +279,5 @@ cat /root/root.txt
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
