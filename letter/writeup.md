@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-OSINT%20|%20Historical%20Research%20|%20Puzzle-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Letter](https://tryhackme.com/room/letter)
 
