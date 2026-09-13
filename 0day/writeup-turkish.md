@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Web%20|%20Shellshock%20|%20Kernel%20Exploit-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [0day](https://tryhackme.com/room/0day)
 
@@ -276,6 +276,6 @@ cat /root/root.txt
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
 ```
