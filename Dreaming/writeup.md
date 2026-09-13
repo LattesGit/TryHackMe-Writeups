@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Web%20|%20CMS%20|%20Lateral%20Movement%20|%20Python%20Library%20Hijacking-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)
+> **Author:** LatenT (LatenT)
 > **Date:** May 2026
 > **Room:** [https://tryhackme.com/room/dreaming](https://tryhackme.com/room/dreaming)
 
