@@ -115,7 +115,7 @@ THM{ARP_Sp00f1ng_1s_E4sy}
 ---
 
 
-> Yazan: Miraç | Tarih: Mayıs 2026
+> Yazan: LatenT | Tarih: Mayıs 2026
 
 
 tek kelimeyle bu nasıl
