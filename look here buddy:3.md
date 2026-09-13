@@ -1,1 +1,1 @@
-### https://medium.com/@miracakkus836
+### https://medium.com/@LatenTakkus836
