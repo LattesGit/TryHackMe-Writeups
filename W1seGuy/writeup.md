@@ -69,4 +69,4 @@ for candidate in (string.ascii_letters + string.digits):
 
 ---
 
-> **Analyst:** Miraç Akkuş (LatenT) | **Date:** 2026-05-12 | **Classification:** TLP:CLEAR
+> **Analyst:** LatenT (LatenT) | **Date:** 2026-05-12 | **Classification:** TLP:CLEAR
