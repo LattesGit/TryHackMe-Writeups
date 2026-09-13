@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-OSINT%20|%20Tarihi%20Araştırma%20|%20Puzzle-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [Letter](https://tryhackme.com/room/letter)
 
