@@ -1,6 +1,6 @@
 # 🐕 Year of the Dog — TryHackMe Writeup
 
-> **Author:** Miraç Akkuş (LatenT)
+> **Author:** LatenT (LatenT)
 > **Date:** May 2026
 > **Room:** [Year of the Dog]()
 
@@ -243,6 +243,6 @@ cd /gitea/gitea
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)
+**Author:** LatenT (LatenT)
 
 **Date:** May 2026
