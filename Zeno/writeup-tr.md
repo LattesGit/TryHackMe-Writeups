@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Web%20|%20RCE%20|%20Systemd%20Abuse-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026
 
 ---
