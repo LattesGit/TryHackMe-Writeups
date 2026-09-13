@@ -2,7 +2,7 @@
 
 # 🕵️‍♂️ Brooklyn Nine-Nine — TryHackMe Writeup
 
-**Author:** Miraç Akkuş (LatenT)
+**Author:** LatenT (LatenT)
 
 **Date:** May 2026
 
@@ -117,7 +117,7 @@ The root flag was located in its standard directory:
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)
+**Author:** LatenT (LatenT)
 
 **Date:** May 2026
 
