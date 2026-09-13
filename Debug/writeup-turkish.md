@@ -10,7 +10,7 @@
 
 
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 
 > **Tarih:** Mayıs 2026  
 
@@ -606,6 +606,6 @@ cat /root/root.txt
 
 
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 
 **Tarih:** Mayıs 2026
