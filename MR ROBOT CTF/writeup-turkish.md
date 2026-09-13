@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Web%20%7C%20WordPress%20%7C%20SUID%20İstismarı-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
@@ -307,5 +307,5 @@ cat /root/key-3-of-3.txt
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
