@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Web%20|%20LFI%20|%20RCE%20|%20Docker%20Escape-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [DogCat](https://tryhackme.com/room/dogcat)
 
@@ -363,6 +363,6 @@ cat /root/flag4.txt
 > **⚠️ Legal Disclaimer:** This writeup is for educational and research purposes only. Always obtain explicit written authorization before testing systems you do not own.
 
 ---
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
 ```
