@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Kriptografi%20|%20RSA%20|%20İmza%20Sahtekarlığı-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [Signed Messages](https://tryhackme.com/room/lafb2026e8)
 
@@ -249,6 +249,6 @@ curl -X POST http://<HEDEF_IP>:5000/verify \
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
 ```
