@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Database%20|%20SQL%20Injection%20|%20SQLite-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Temmuz 2026  
 > **Oda:** [Light](https://tryhackme.com/room/lightroom)
 
