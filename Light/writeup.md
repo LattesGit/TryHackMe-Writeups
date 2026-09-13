@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Database%20|%20SQL%20Injection%20|%20SQLite-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** July 2026  
 > **Room:** [Light](https://tryhackme.com/room/lightroom)
 
@@ -212,5 +212,5 @@ smokey' uNion SeLeCt password FrOm admintable WhErE username='TryHackMeAdmin' '1
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** July 2026
