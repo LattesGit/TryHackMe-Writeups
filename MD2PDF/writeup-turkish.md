@@ -8,7 +8,7 @@ Harika bir writeup daha! İçeriği inceledim; teknik akış, SSRF (Server-Side 
 
 # 📄 MD2PDF — TryHackMe Çözüm Raporu (Writeup)
 
-> **Yazar:** Miraç Akkuş (LatenT)
+> **Yazar:** LatenT (LatenT)
 > **Tarih:** Mayıs 2026
 > **Oda:** [MD2PDF]()
 
@@ -165,6 +165,6 @@ strings cikti.pdf | grep -i "THM{"
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)
+**Yazar:** LatenT (LatenT)
 
 **Tarih:** Mayıs 2026
