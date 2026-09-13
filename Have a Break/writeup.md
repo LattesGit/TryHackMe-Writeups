@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Digital%20Forensics%20|%20OSINT%20|%20Incident%20Response-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Have a Break](https://tryhackme.com/room/haveabreak)
 
@@ -230,5 +230,5 @@ Followed Epieos link. Profile contained:
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** Mayıs 2026
