@@ -76,4 +76,4 @@ flag{4127d0530abf16d6d23973e3df8dbecb}
 
 ---
 
-> Yazan: Miraç | Tarih: Mayıs 2026
+> Yazan: LatenT | Tarih: Mayıs 2026
