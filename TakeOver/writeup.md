@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Web%20|%20Subdomain%20Enumeration%20|%20SSL%20Certificate%20Analysis-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [TakeOver](https://tryhackme.com/room/takeover)
 
@@ -228,6 +228,6 @@ Content-Type: text/html; charset=UTF-8
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
 ```
