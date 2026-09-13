@@ -1,6 +1,6 @@
 # 🦊 Year of the Fox — TryHackMe Çözümü (Writeup)
 
-> **Yazar:** Miraç Akkuş (LatenT)
+> **Yazar:** LatenT (LatenT)
 > **Tarih:** Mayıs 2026
 > **Oda:** [Year of the Fox]()
 
@@ -137,5 +137,5 @@ Artık dışarıdan hedef IP'nin 2222. portuna SSH isteği atabiliriz. `fox` kul
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)
+**Yazar:** LatenT (LatenT)
 **Not:** Bu rapor eğitim amaçlıdır.
