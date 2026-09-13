@@ -76,4 +76,4 @@ flag{4127d0530abf16d6d23973e3df8dbecb}
 
 ---
 
-> Author: Miraç | Date: May 2026
+> Author: LatenT | Date: May 2026
