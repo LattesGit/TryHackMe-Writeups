@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Web%20|%20Alt%20Alan%20Adı%20Enumerasyonu%20|%20SSL%20Sertifika%20Analizi-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [TakeOver](https://tryhackme.com/room/takeover)
 
@@ -227,6 +227,6 @@ Content-Type: text/html; charset=UTF-8
 > **⚠️ Yasal Uyarı:** Bu write-up sadece eğitim ve araştırma amaçlıdır. Sahibi olmadığınız sistemleri test etmeden önce her zaman açık yazılı yetki alın.
 
 ---
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
 ```
