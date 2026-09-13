@@ -7,7 +7,7 @@
 ![Category](https://img.shields.io/badge/Category-Linux%20|%20FTP%20|%20SMB%20|%20SUID%20PrivEsc-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Anonymous](https://tryhackme.com/room/anonymous)
 
@@ -313,6 +313,6 @@ cat /root/root.txt
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
 ```
