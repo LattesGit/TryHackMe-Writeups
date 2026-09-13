@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Internal - TryHackMe Çözümü (Writeup)
 
-> **Yazar:** Miraç Akkuş (LatenT)
+> **Yazar:** LatenT (LatenT)
 > **Tarih:** Mayıs 2026
 > **Hedef:** internal.thm
 
@@ -192,6 +192,6 @@ cat /root/root.txt
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)
+**Yazar:** LatenT (LatenT)
 
 **Tarih:** Mayıs 2026
