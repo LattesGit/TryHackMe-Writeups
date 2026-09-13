@@ -86,6 +86,6 @@ The root flag was located in the /root directory:
 
     Principle of Least Privilege: Avoid granting NOPASSWD sudo rights to text editors like nano or vi, as they can be easily used to escape to a shell.
 
-Author: Miraç Akkuş (LatenT)
+Author: LatenT (LatenT)
 
 Date: May 2026
