@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Web%20|%20SMB%20|%20PrivEsc-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Year of the Fox](https://tryhackme.com/room/yotf)
 
@@ -288,6 +288,6 @@ Table
 
     ⚠️ Legal Disclaimer: This writeup is for educational and research purposes only. Always obtain explicit written authorization before testing systems you do not own. Unauthorized access to computer systems is illegal under the Computer Fraud and Abuse Act (CFAA) and similar international legislation.
 
-Author: Miraç Akkuş (LatenT)
+Author: LatenT (LatenT)
 Date: May 2026
 Writeup #4
