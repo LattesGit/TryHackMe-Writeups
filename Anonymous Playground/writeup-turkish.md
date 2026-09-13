@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Linux%20%7C%20Web%20%7C%20SUID%20%7C%20Cron-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [Anonymous Playground](https://tryhackme.com/room/anonymousplayground)
 
@@ -249,5 +249,5 @@ cat /root/root.txt
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
