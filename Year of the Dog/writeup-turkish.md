@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Web%20|%20SQLi%20|%20Gitea%20|%20Docker%20Escape-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [Year of the Dog](https://tryhackme.com/room/yearofthedog)
 
@@ -334,5 +334,5 @@ cat /root/root.txt
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
