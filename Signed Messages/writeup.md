@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Cryptography%20|%20RSA%20|%20Signature%20Forgery-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Signed Messages](https://tryhackme.com/room/lafb2026e8)
 
@@ -249,6 +249,6 @@ curl -X POST http://<TARGET_IP>:5000/verify \
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
 ```
