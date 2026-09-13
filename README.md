@@ -24,5 +24,5 @@ Each writeup follows a straightforward flow:
 
 ---
 
-### Miraç (LatenT)
+### LatenT (LatenT)
 Solves CTFs, writes writeups, sometimes gets stuck[cite: 1].
