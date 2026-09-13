@@ -4,7 +4,7 @@
 ![Kategori](https://img.shields.io/badge/Kategori-Dijital%20Adli%20Bilişim%20|%20OSINT%20|%20Olay%20Müdahale-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Yazar:** Miraç Akkuş (LatenT)  
+> **Yazar:** LatenT (LatenT)  
 > **Tarih:** Mayıs 2026  
 > **Oda:** [Have a Break](https://tryhackme.com/room/haveabreak)
 
@@ -222,5 +222,5 @@ Epieos linki takip edildi. Profilde:
 
 ---
 
-**Yazar:** Miraç Akkuş (LatenT)  
+**Yazar:** LatenT (LatenT)  
 **Tarih:** Mayıs 2026
