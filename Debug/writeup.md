@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Web%20|%20PHP%20Deserialization%20|%20MOTD%20Poisoning-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
 
-> **Author:** Miraç Akkuş (LatenT)  
+> **Author:** LatenT (LatenT)  
 > **Date:** May 2026  
 > **Room:** [Debug](https://tryhackme.com/room/debug)
 
@@ -306,5 +306,5 @@ cat /root/root.txt
 
 ---
 
-**Author:** Miraç Akkuş (LatenT)  
+**Author:** LatenT (LatenT)  
 **Date:** May 2026
