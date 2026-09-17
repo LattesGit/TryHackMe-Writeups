@@ -32,7 +32,7 @@
 
 ### E-posta Header Analizi
 
-`exhibit_a.eml` açıldı. Gönderen: `notmyname2847@gmail.com`, alıcı: `redakce@novinybrno.cz` (Çek haber ajansı).
+`exhibit_a.eml` açıldı. Gönderen: `[REDACTED]`, alıcı: `[REDACTED]` (Çek haber ajansı).
 
 **Kritik Header:**
 ```
@@ -152,7 +152,7 @@ Sağlanan dosyalarda tam isim yok. Harici istihbarat gerekiyor.
 
 ### E-posta Keşfi
 
-`comms_export.txt`'den şüpheli e-posta: `kraliknovak09@gmail.com`
+`comms_export.txt`'den şüpheli e-posta: `[REDACTED]`
 
 ### Araç Değerlendirmesi
 
@@ -164,7 +164,7 @@ Sağlanan dosyalarda tam isim yok. Harici istihbarat gerekiyor.
 
 ### Epieos Analizi
 
-**Girdi:** `kraliknovak09@gmail.com`
+**Girdi:** `[REDACTED]`
 
 **Sonuç:** İlişkili Google Maps profil linki — konum geçmişi ve kullanıcı tarafından oluşturulan içerik.
 
