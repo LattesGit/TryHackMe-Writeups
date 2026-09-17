@@ -90,7 +90,7 @@ cat /opt/wp-save.txt
 ### SSH Erişimi ve User Flag
 
 ```bash
-ssh aubreanna@internal.thm
+ssh [REDACTED]
 cat /home/aubreanna/user.txt
 
 ```
@@ -116,7 +116,7 @@ netstat -tulpn | grep 8080
 Jenkins'e kendi makinemden erişebilmek için bir SSH tüneli oluşturdum:
 
 ```bash
-ssh -L 9999:127.0.0.1:8080 aubreanna@internal.thm
+ssh -L 9999:127.0.0.1:8080 [REDACTED]
 
 ```
 
