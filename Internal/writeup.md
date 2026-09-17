@@ -101,7 +101,7 @@ cat /opt/wp-save.txt
 ### SSH Access & User Flag
 
 ```bash
-ssh aubreanna@internal.thm
+ssh [REDACTED]
 cat /home/aubreanna/user.txt
 ```
 
@@ -125,7 +125,7 @@ netstat -tulpn | grep 8080
 Since Jenkins was only accessible internally, established an SSH tunnel for remote access:
 
 ```bash
-ssh -L 9999:127.0.0.1:8080 aubreanna@internal.thm
+ssh -L 9999:127.0.0.1:8080 [REDACTED]
 ```
 
 **Access:** Jenkins Dashboard now available at `http://localhost:9999`
