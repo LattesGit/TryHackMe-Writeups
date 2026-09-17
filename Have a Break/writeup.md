@@ -40,7 +40,7 @@ A Czech logistics company suspects internal data leakage. Provided evidence incl
 
 ### Email Header Analysis
 
-Opened `exhibit_a.eml`. Sender: `notmyname2847@gmail.com`, recipient: `redakce@novinybrno.cz` (Czech news outlet).
+Opened `exhibit_a.eml`. Sender: `[REDACTED]`, recipient: `[REDACTED]` (Czech news outlet).
 
 **Critical Header:**
 ```
@@ -160,7 +160,7 @@ No full names in provided files. External intelligence required.
 
 ### Email Discovery
 
-From `comms_export.txt`, identified suspicious email: `kraliknovak09@gmail.com`
+From `comms_export.txt`, identified suspicious email: `[REDACTED]`
 
 ### Tool Evaluation
 
@@ -172,7 +172,7 @@ From `comms_export.txt`, identified suspicious email: `kraliknovak09@gmail.com`
 
 ### Epieos Analysis
 
-**Input:** `kraliknovak09@gmail.com`
+**Input:** `[REDACTED]`
 
 **Results:** Associated Google Maps profile link with location history and user-generated content.
 
